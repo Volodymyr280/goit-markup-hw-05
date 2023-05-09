@@ -216,7 +216,7 @@ color:var(--color-navy-blue);
 .nav-item {
 }
 .nav-link {
-	color: var(--color-navy-blue);
+	color: var(--color-ocean);
 	display: block;	
 	padding: 24px 0;
 	transition-property: color;
