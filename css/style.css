@@ -245,9 +245,9 @@ color:var(--color-navy-blue);
   .nav-link.active::after {
 	background: var(--color-ocean);
   }
-  .active{
+  /* .active{
 	color: #404BBF;
-  }
+  } */
   
 .address {
 	font-style: normal	
